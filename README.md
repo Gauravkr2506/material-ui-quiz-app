@@ -1,13 +1,13 @@
 [Demo Link](https://elated-blackwell-d0bbe0.netlify.app) 
 
 ### Library used
-1 [@material-ui/core](https://www.npmjs.com/package/@material-ui/core)
-2 [@material-ui/icons](https://www.npmjs.com/package/@material-ui/icons)
-3 [@material-ui/styles](https://www.npmjs.com/package/@material-ui/styles)
-4 [redux](https://www.npmjs.com/package/redux)
-5 [react-redux](https://www.npmjs.com/package/react-redux)
-6 [redux-thunk](https://www.npmjs.com/package/redux-thunk)
-7 [react-router-dom](https://www.npmjs.com/package/react-router-dom)
+1 [@material-ui/core](https://www.npmjs.com/package/@material-ui/core)<br />
+2 [@material-ui/icons](https://www.npmjs.com/package/@material-ui/icons)<br />
+3 [@material-ui/styles](https://www.npmjs.com/package/@material-ui/styles)<br />
+4 [redux](https://www.npmjs.com/package/redux)<br />
+5 [react-redux](https://www.npmjs.com/package/react-redux)<br />
+6 [redux-thunk](https://www.npmjs.com/package/redux-thunk)<br />
+7 [react-router-dom](https://www.npmjs.com/package/react-router-dom)<br />
 
 
 ## Available Scripts
