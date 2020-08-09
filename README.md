@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Demo Link](https://elated-blackwell-d0bbe0.netlify.app) 
+
+### Library used
+1 [@material-ui/core](https://www.npmjs.com/package/@material-ui/core)
+2 [@material-ui/icons](https://www.npmjs.com/package/@material-ui/icons)
+3 [@material-ui/styles](https://www.npmjs.com/package/@material-ui/styles)
+4 [redux](https://www.npmjs.com/package/redux)
+5 [react-redux](https://www.npmjs.com/package/react-redux)
+6 [redux-thunk](https://www.npmjs.com/package/redux-thunk)
+7 [react-router-dom](https://www.npmjs.com/package/react-router-dom)
+
 
 ## Available Scripts
 
