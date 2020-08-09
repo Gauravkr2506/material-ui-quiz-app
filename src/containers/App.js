@@ -64,7 +64,7 @@ function App(props) {
             padding: 3,
             backgroundColor: "DarkSalmon",
             color: "white",
-            position: "absolute",
+            position: "fixed",
             left: 0,
             width: "100%",
             bottom: 0,

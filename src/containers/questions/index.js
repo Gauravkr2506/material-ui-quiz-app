@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useEffect } from "react";
 import { connect } from "react-redux";
 import { makeStyles } from "@material-ui/core/styles";
@@ -28,6 +29,7 @@ const useStyles = makeStyles((theme) => ({
 function Questions(props) {
   const classes = useStyles();
   const [value, setValue] = React.useState("");
+
   const [users_answer, setUsersAnswer] = React.useState([]);
   const [current_question_index, setCurrentQuestionIndex] = React.useState(0);
 
