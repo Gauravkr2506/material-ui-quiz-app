@@ -8,7 +8,6 @@ import FormControl from "@material-ui/core/FormControl";
 import FormLabel from "@material-ui/core/FormLabel";
 import Button from "@material-ui/core/Button";
 import Paper from "@material-ui/core/Paper";
-// import { browserHistory } from "react-router-dom";
 
 import { getQuestionsAction, setUserAnswersAction } from "./../../store/action";
 import { Typography } from "@material-ui/core";
