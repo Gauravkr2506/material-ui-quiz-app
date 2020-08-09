@@ -57,26 +57,6 @@ function App(props) {
           </Router>
         </Box>
       </Container>
-      {!/iPhone|iPad|iPod|Android/i.test(navigator.userAgent) && (
-        <footer
-          style={{
-            textAlign: "center",
-            padding: 3,
-            backgroundColor: "DarkSalmon",
-            color: "white",
-            position: "fixed",
-            left: 0,
-            width: "100%",
-            bottom: 0,
-          }}
-        >
-          <p>
-            Faceslabs@{new Date().getFullYear()}
-            <br />
-            <a href="mailto:gauravkr2506@gmail.com">gauravkr2506@gmail.com</a>
-          </p>
-        </footer>
-      )}
     </ThemeProvider>
   );
 }
