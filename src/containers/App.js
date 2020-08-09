@@ -71,7 +71,7 @@ function App(props) {
           }}
         >
           <p>
-            Facelabs@{new Date().getFullYear()}
+            Faceslabs@{new Date().getFullYear()}
             <br />
             <a href="mailto:gauravkr2506@gmail.com">gauravkr2506@gmail.com</a>
           </p>
